@@ -1,10 +1,10 @@
 # Devops-SDLC-Fundamentals  === AUTOMATION / IMPROVING EFFICIENC/ SECURITY WATCH/
-#Foundational Concepts
-# AWS Services for Devops
+# Foundational Concepts
+#AWS Services for Devops
 #EC2 :Elastic compute
 #VPC: Virtual Private Cloud ( private = security concepts)
 #EBS (volume) 
-# S3 buckets (storage related services)
+#S3 buckets (storage related services)
 #IAM (Identity and acess management)
 #Cloud Watch (Monitoring) 
 #Lambda (serverless compute)
