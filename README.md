@@ -4,13 +4,13 @@
 ###
  EC2 :Elastic compute
 ####
- VPC: Virtual Private Cloud ( private = security concepts)
+  VPC: Virtual Private Cloud ( private = security concepts)
 #####EBS
- volume
+  volume
 ######
-S3 buckets (storage related services)
+ S3 buckets (storage related services)
 #######
-IAM (Identity and acess management)
+ IAM (Identity and acess management)
 ########
 Cloud Watch (Monitoring) 
 #########
